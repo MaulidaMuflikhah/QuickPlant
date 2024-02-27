@@ -1,6 +1,6 @@
 ![url](https://github.com/Eathen0/QuickPlant/blob/main/appLogo.png) x ![url](https://github.com/Eathen0/QuickPlant/blob/main/next-js-seeklogo.svg)
 
-# Pengingat Jadwal Kelas
+# Pengingat Jadwal Piket untuk siswa
 
 + menampilkan jadwal kelas dan jadwal piket.
 + mengingatkan siswa yang terjadwal piket.
