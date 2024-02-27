@@ -1,4 +1,4 @@
-![url]()
+![url](https://github.com/Eathen0/QuickPlant/blob/main/appLogo.png)
 
 # Pengingat Jadwal Kelas
 
