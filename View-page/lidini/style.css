@@ -1,0 +1,17 @@
+*{box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #63A1FF;
+}
+.wrapper{
+    width: 420px;
+    background: #63A1FF;
+    color: #63A1FF;
+}
