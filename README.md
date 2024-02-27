@@ -1,4 +1,4 @@
-![url](https://github.com/Eathen0/QuickPlant/blob/main/appLogo.sv) x ![url](https://github.com/Eathen0/QuickPlant/blob/main/next-js-seeklogo.svg)
+![url](https://github.com/Eathen0/QuickPlant/blob/main/appLogo.svg) x ![url](https://github.com/Eathen0/QuickPlant/blob/main/next-js-seeklogo.svg)
 
 # Pengingat Jadwal Piket untuk siswa
 
